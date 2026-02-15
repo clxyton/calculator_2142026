@@ -8,6 +8,7 @@
 #include <stdexcept>
 #include <string>
 #include <cmath>
+#include <print>
 
 //creating a Calculator class //for Calculator::anything//
 class Calculator
