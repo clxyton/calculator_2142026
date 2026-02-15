@@ -4,7 +4,7 @@ I will try to program in C++ with minimal prior knowledge. I have overdue assign
 
 Edit: This was made on Linux, although if you can, use MinGW on Windows (if that applies to you, or on Mac, just do your own research.) Also, I'm not sure if I should use CMake/Make/Whateverthehellmake or if I should've just left it compiled with g++, so I did the latter.
 
-Edit 2: when you run g++, it should be `g++ main.cpp calculator.cpp -o calculator.{out,exe}` (platform dependent (windows = .exe, linux/macos = .out)` -std=c++23`` `(for std::print and std::println support)`
+Edit 2: when you run g++, it should be `g++ main.cpp calculator.cpp -o calculator.{out,exe}` (platform dependent (windows = .exe, linux/macos = .out)` -std=c++23`` `(for std::print/std::println support)`
 
 copy-paste:
 
